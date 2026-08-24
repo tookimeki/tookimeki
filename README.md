@@ -12,6 +12,6 @@
 ### 💻 `$ whoami`
 ```bash
 [root@server ~]# cat /etc/passwd | grep admin
-> Role      : IT Support Specialist & Developer
-> Expertise : Network Management, Cloud Infrastructure, & Full-Stack Dev
-> Hobby     : Exploring new systems, automation, and data structures
+> Role      : ERROR 404
+> Expertise : ERROR 404
+> Hobby     : ERROR 404
